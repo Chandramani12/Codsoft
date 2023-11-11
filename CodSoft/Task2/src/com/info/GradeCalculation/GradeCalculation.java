@@ -54,7 +54,7 @@ public class GradeCalculation {
 		
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) {//Main method and store the marks and 
 		System.out.print("Enter the number of subject :- ");
 		sc=new Scanner(System.in);
 		
